@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/AppTheme"
+    android:fitsSystemWindows="true"
+
+    tools:context="com.eduardo.android.movies.MainActivity" >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_main"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            style="@style/AppTheme"
+            android:visibility="visible"
+            android:title="@string/app_name"
+            android:background="?attr/colorPrimary"
+
+            >
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/textMain"
+        android:text="Não há filmes!"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:textColor="#9E9E9E"
+        />
+
+    <GridView
+        android:id="@+id/filme_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnWidth="90dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:gravity="center"
+        />
+
+</LinearLayout>
+
+

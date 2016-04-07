@@ -1,0 +1,36 @@
+<resources>
+    <!-- Dimensões de margem. -->
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_top_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Tamanho para fontes. -->
+    <dimen name="button">14sp</dimen>
+    <dimen name="caption">12sp</dimen>
+    <dimen name="body_1">14sp</dimen>
+    <dimen name="body_2">14sp</dimen>
+    <dimen name="subhead">16sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="headline">24sp</dimen>
+    <dimen name="display_1">34sp</dimen>
+    <dimen name="display_2">45sp</dimen>
+    <dimen name="display_3">56sp</dimen>
+    <dimen name="display_4">112sp</dimen>
+
+    <!-- Tamanho componentes da interface. -->
+    <dimen name="button_height">36dp</dimen>
+    <dimen name="word_contact">64dp</dimen>
+    <dimen name="collapse_view">384dp</dimen>
+    <dimen name="padding_cardView">6dp</dimen>
+    <dimen name="word_card_contact">32dp</dimen>
+    <dimen name="view">2dp</dimen>
+
+    <!-- Tamanho para elevação dos componentes. -->
+    <dimen name="elevation_switch">1dp</dimen>
+    <dimen name="elevation_raised_button">2dp</dimen>
+    <dimen name="elevation_toolbar">4dp</dimen>
+    <dimen name="app_bar_height">384dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+</resources>
