@@ -4,17 +4,13 @@
 
     <!-- Activityes e Fragments titles -->
     <string name="title_activity_main">Movies</string>
-
-
-    <!-- Menus actions -->
-
     <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_detail">Details</string>
 
-    <string name="alert_del_message">Este contato será excluído.</string>
+    <!-- Chave da API -->
+    <string name="api_key">9041cbac86ccb06dc583aadb53f255d7</string>
 
-    <!-- Contacts Options -->
-    <string name="about_text">\nContatos\nVersão 1.0.100\n\nUniversidade Federal da Paraíba\nCCAE - Campus IV\nDepartamento de Ciências Exatas\nNúcleo Ayty\nCurso Android</string>
-
-
+    <string name="network_error">Inpossível conectar ao servidor.\n Verifique sua conexão com a internet!</string>
 
 </resources>

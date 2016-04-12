@@ -24,7 +24,8 @@
         <activity android:name=".MainActivity"
             android:theme="@style/AppTheme"
             />
-        <activity android:name=".DetalheFilmeActivity"></activity>
+        <activity android:name=".DetailActivity"></activity>
+        <activity android:name=".SettingsActivity"></activity>
     </application>
 
 </manifest>

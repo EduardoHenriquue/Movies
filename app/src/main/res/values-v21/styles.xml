@@ -4,7 +4,7 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/md_light_blue_600</item>
+        <item name="colorPrimary">@color/md_light_blue_700</item>
         <item name="colorPrimaryDark">@color/md_light_blue_900</item>
         <item name="colorAccent">@color/md_pink_500</item>
         <item name="colorControlHighlight">@color/md_blue_500_25</item>​
@@ -22,7 +22,7 @@
         <item name="android:textColorTertiaryInverse">@color/md_disabled_hint_text_white</item>
         <item name="android:cacheColorHint">@color/md_divider</item>
         <item name="android:windowBackground">@color/md_white_1000</item>
-        <item name="android:navigationBarColor">@color/md_light_blue_600</item>
+        <item name="android:navigationBarColor">@color/md_light_blue_700</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>

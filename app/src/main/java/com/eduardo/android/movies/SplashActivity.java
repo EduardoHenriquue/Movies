@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 public class SplashActivity extends AppCompatActivity {
 
-    private final int TIME_SCREEN = 3000;
+    private final int TIME_SCREEN = 2000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
