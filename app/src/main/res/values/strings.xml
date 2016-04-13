@@ -9,7 +9,7 @@
     <string name="title_activity_detail">Details</string>
 
     <!-- Chave da API -->
-    <string name="api_key">9041cbac86ccb06dc583aadb53f255d7</string>
+    <string name="api_key"> YOUR KEY </string>
 
     <string name="network_error">Inpossível conectar ao servidor.\n Verifique sua conexão com a internet!</string>
 
